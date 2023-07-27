@@ -1,0 +1,32 @@
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\MethodsEx.exe
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\MethodsEx.deps.json
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\MethodsEx.runtimeconfig.json
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\MethodsEx.runtimeconfig.dev.json
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\MethodsEx.dll
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\ref\MethodsEx.dll
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\bin\Debug\net5.0\MethodsEx.pdb
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.csproj.AssemblyReference.cache
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.AssemblyInfoInputs.cache
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.AssemblyInfo.cs
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.dll
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\ref\MethodsEx.dll
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.pdb
+C:\Users\RodolfoFarinha\OneDrive - Assembly\Desktop\Code 9\MethodsEx\obj\Debug\net5.0\MethodsEx.genruntimeconfig.cache
+C:\Users\bea_j\Downloads\Exs\MethodsEx\bin\Debug\net5.0\MethodsEx.exe
+C:\Users\bea_j\Downloads\Exs\MethodsEx\bin\Debug\net5.0\MethodsEx.deps.json
+C:\Users\bea_j\Downloads\Exs\MethodsEx\bin\Debug\net5.0\MethodsEx.runtimeconfig.json
+C:\Users\bea_j\Downloads\Exs\MethodsEx\bin\Debug\net5.0\MethodsEx.runtimeconfig.dev.json
+C:\Users\bea_j\Downloads\Exs\MethodsEx\bin\Debug\net5.0\MethodsEx.dll
+C:\Users\bea_j\Downloads\Exs\MethodsEx\bin\Debug\net5.0\MethodsEx.pdb
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.csproj.AssemblyReference.cache
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.AssemblyInfoInputs.cache
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.AssemblyInfo.cs
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.dll
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\refint\MethodsEx.dll
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.pdb
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\MethodsEx.genruntimeconfig.cache
+C:\Users\bea_j\Downloads\Exs\MethodsEx\obj\Debug\net5.0\ref\MethodsEx.dll
